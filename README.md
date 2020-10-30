@@ -9,3 +9,7 @@
 0. Add a badge to displays Github Actions status
 0. Add an Issue templates
 0. Add a pull request template
+
+Add a link to the repository here in the README.
+
+Link: <YOUR_REPOSITORY>
